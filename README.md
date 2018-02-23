@@ -1,6 +1,8 @@
 ﻿_Course Project of CS583: Data Mining and Text Mining_
 ======================================================
 
+[![Coverage Status](https://coveralls.io/repos/github/prats13bag/ConstrainedMSApriori/badge.svg?branch=master)](https://coveralls.io/github/prats13bag/ConstrainedMSApriori?branch=master)
+
 _Instructor:_ [Prof. Bing Liu](https://www.cs.uic.edu/~liub/)
 
 _Team Members:_

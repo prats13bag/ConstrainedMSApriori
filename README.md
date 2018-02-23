@@ -1,10 +1,13 @@
 ﻿_About the project_
 ===================
 
-A python implementation for MS Apriori algorithm to find frequent itemsets from a given set of transaction data and parameters with following two constraints - 1. certain items can not be together in frequent itemset
+A python implementation for MS Apriori algorithm to find frequent itemsets from a given set of transaction data and parameters with following two constraints:
+
+1. certain items can not be together in frequent itemset
 2. frequent itemset must have certain items otherwise those itemsets without one of these items becomes infrequent
 
 'input-data.txt' file contains only the transaction data
+
 'parameter-file.txt" file contains MIS values of each of the items, SDC value, items which can not be together in usual set form, and a list of items among which one or more items must be in frequent itemset
 
 

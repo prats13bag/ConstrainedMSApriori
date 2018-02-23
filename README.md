@@ -1,4 +1,16 @@
-﻿_About the project_
+﻿_Course Project of CS583: Data Mining and Text Mining_
+======================================================
+
+_Instructor:_ [Prof. Bing Liu](https://www.cs.uic.edu/~liub/)
+
+_Team Members:_
+
+    •	 Pratyush Bagaria: pbagar2@uic.edu
+    •	 Santhosh Mani: smani6@uic.edu
+
+
+
+_About the project_
 ===================
 
 A python implementation for MS Apriori algorithm to find frequent itemsets from a given set of transaction data and parameters with following two constraints:
